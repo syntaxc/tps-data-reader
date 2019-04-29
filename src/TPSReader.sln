@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.2.0.8649-Beta 2
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPSReader", "TPSReader\TPSReader.csproj", "{CA021238-2FA1-441C-8B89-DA275E2A79F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPSReaderGUI", "TPSReaderGUI\TPSReaderGUI.csproj", "{E12E7DA1-B367-4FAA-B3D7-197753F43E1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPSReaderCmd", "TPSReaderCmd\TPSReaderCmd.csproj", "{8DAF7C25-B580-4F00-8DA7-4E8C4391F3E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA021238-2FA1-441C-8B89-DA275E2A79F8}.Debug|x86.Build.0 = Debug|x86
+		{CA021238-2FA1-441C-8B89-DA275E2A79F8}.Debug|x86.ActiveCfg = Debug|x86
+		{CA021238-2FA1-441C-8B89-DA275E2A79F8}.Release|x86.Build.0 = Release|x86
+		{CA021238-2FA1-441C-8B89-DA275E2A79F8}.Release|x86.ActiveCfg = Release|x86
+		{E12E7DA1-B367-4FAA-B3D7-197753F43E1C}.Debug|x86.Build.0 = Debug|x86
+		{E12E7DA1-B367-4FAA-B3D7-197753F43E1C}.Debug|x86.ActiveCfg = Debug|x86
+		{E12E7DA1-B367-4FAA-B3D7-197753F43E1C}.Release|x86.Build.0 = Release|x86
+		{E12E7DA1-B367-4FAA-B3D7-197753F43E1C}.Release|x86.ActiveCfg = Release|x86
+		{8DAF7C25-B580-4F00-8DA7-4E8C4391F3E1}.Debug|x86.Build.0 = Debug|x86
+		{8DAF7C25-B580-4F00-8DA7-4E8C4391F3E1}.Debug|x86.ActiveCfg = Debug|x86
+		{8DAF7C25-B580-4F00-8DA7-4E8C4391F3E1}.Release|x86.Build.0 = Release|x86
+		{8DAF7C25-B580-4F00-8DA7-4E8C4391F3E1}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal
